@@ -1,0 +1,204 @@
+.logoInicio{
+    background-color: rgba(0,56,107,255);
+}
+
+.link-nav{
+    color: rgba(0,56,107,255);
+}
+
+.centro{
+    text-align: center;
+}
+
+.menu-inicio{
+    color: rgba(254,189,1,255);
+}
+
+.contenido{
+    background-color: rgba(0, 55, 107, 0.37);
+}
+
+h1{
+    font-size: 40px;
+    margin-left: 2%;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 2%;
+}
+h4{
+    margin-left: 2%;
+    font-size: 20px;
+}
+
+footer{
+    background-color: rgba(254,189,1,255);
+}
+
+.parrafo{
+    margin: 1%;
+    text-align: justify;
+}
+
+
+
+.imagenFondo{
+    background-image: url("./MAPAACS.PNG");
+    height: 50em;
+}
+.vision{    
+    height: 25em;
+    color: rgb(0, 0, 0);
+    width: 80%;
+    text-align: justify;
+    background-image: url("https://images.unsplash.com/photo-1624267439301-8147fff1a23d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80");
+}
+
+
+
+button{
+    color: rgba(254,189,1,255)!important;
+    background-color: rgba(0, 55, 107, 0.37)!important;
+    border-radius: 25px!important;
+    border: 5px!important;
+    margin: 2%;
+}
+
+.navegacion{
+    color: rgba(254,189,1,255);
+    background-color: rgba(0, 55, 107, 0.37);
+}
+
+.edificacion{
+    background-image: url("https://i1.wp.com/albedosolar.com/wp-content/uploads/2015/05/drainback-colectivo.jpg?resize=848%2C450&ssl=1");
+}
+
+.obra{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/01_infraestructuras/01_construccion/DRAGADOS_AUSTRALIA.jpg");
+}
+
+.mineria{
+    background-image: url("https://s1.eestatic.com/2021/07/02/invertia/empresas/construccion-infraestructuras/593451580_193975849_1024x576.jpg")
+}
+
+.redes{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/02_servicios_industriales/REDES_baja.jpg");
+}
+
+
+.instalaciones{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/02_servicios_industriales/Instalaciones_baja.jpg");
+}
+
+
+.sistemas{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/02_servicios_industriales/Sistemas%20de%20control_baja.jpg");
+}
+
+.cartas{
+    color: white;
+    background-color: rgba(0,56,107,255);
+}
+
+.servicios{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/03_servicios/Servicio%20de%20ayuda%20a%20domicilio%20Dip.%20Almeria%201.jpg");
+}
+
+
+.edificios{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/02_areas_negocio/03_servicios/Mantenimiento%20de%20las%20instalaciones%20de%20Matadero%2C%20Madrid.jpg");
+}
+
+.ciudad{
+    background-image: url("https://www.grupoacs.com/ficheros_editor/Image/00_home/DESTACADOS%202018/servicios.jpg");
+}
+
+#tabla-directivos{
+    border: 3px solid rgba(0,56,107,255);
+    width: 80%;
+}
+
+#tabla-consejeros{
+    border: 3px solid rgba(0,56,107,255);
+    width: 50%;
+    margin: 2%;
+    white-space: nowrap;
+}
+
+#tabla-empresas{
+    border: 3px solid rgba(0,56,107,255);
+    width: 60%;
+}
+
+.desplazador{
+    margin-top: 4em;
+}
+
+iframe{
+    border: 3px solid rgba(0,56,107,255)!important;
+}
+
+
+
+/*Práctica 4*/
+.principal{
+    background: rgb(0, 0, 0);
+    width: 90%;
+}
+
+#menu-noticias{
+    background: rgba(0, 55, 107, 0.37);
+}
+
+#contenido-noticias{
+    background: rgb(255, 255, 255);
+    color: rgba(0, 55, 107);
+}
+
+.opcion-noticias{
+    color: rgba(254,189,1,255)!important;
+    background-color: rgba(0, 55, 107, 0.37)!important;
+    border-radius: 25px!important;
+    border: 5px!important;
+    margin: 2%;
+}
+
+#categoria-escogida{
+    color: rgba(254,189,1,255)!important;
+    background-color: rgba(0, 55, 107, 0.37)!important;
+    border-radius: 25px!important;
+    border: 5px!important;
+    margin: 2%;
+}
+
+#info-imagen{
+    max-width: 500px;
+    max-height: 300px;
+}
+
+#imagen-stand{
+    max-width: 500px;
+    max-height: 200px;
+}
+
+.esconder{
+    display: none;
+}
+
+#ultima-fila{
+    margin-top: 2em;
+}
+
+#inicio{
+    margin-top: 3em;
+}
+
+.botones-de-info{
+    font-size: small;
+}
+
+.noticias-relevantes{
+    color: rgba(254,189,1,255);
+}

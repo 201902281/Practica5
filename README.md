@@ -14,3 +14,4 @@ Dentro del contenido mostrado en el JSON, se puede observar la siguiente informa
 
 Mediante las funciones "pantallaDeInicio" y "MostrarInfo" juego con las dos pantallas que se muestran en la zona del contenido. De este modo la experiencia de usuario es mejor. 
 
+Durante todo el proyecto hice uso de JQuery para acceder y modificar los elementos de mi archivo "html".
